@@ -1,7 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
 @import '~https://fonts.googleapis.com/icon?family=Material+Icons';
 @import '~https://fonts.googleapis.com/icon?family=Roboto';
+/*
+Choose on eof the following global themes:
+    indigo-pink
+    deeppurple-amber
+    pink-bluegrey
+    purple-green
+
+OR create your own theme
+ */
 @import '~@angular/material/core/theming/prebuilt/indigo-pink.css';
+
 
 body {
   font-family: Roboto;
